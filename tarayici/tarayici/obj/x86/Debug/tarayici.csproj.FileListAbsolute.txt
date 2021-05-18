@@ -1,0 +1,19 @@
+C:\Users\Bilal\Documents\Visual Studio 2010\Projects\tarayici\tarayici\bin\Debug\tarayici.exe
+C:\Users\Bilal\Documents\Visual Studio 2010\Projects\tarayici\tarayici\bin\Debug\tarayici.pdb
+C:\Users\Bilal\Documents\Visual Studio 2010\Projects\tarayici\tarayici\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bilal\Documents\Visual Studio 2010\Projects\tarayici\tarayici\obj\x86\Debug\tarayici.Form1.resources
+C:\Users\Bilal\Documents\Visual Studio 2010\Projects\tarayici\tarayici\obj\x86\Debug\tarayici.Properties.Resources.resources
+C:\Users\Bilal\Documents\Visual Studio 2010\Projects\tarayici\tarayici\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bilal\Documents\Visual Studio 2010\Projects\tarayici\tarayici\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bilal\Documents\Visual Studio 2010\Projects\tarayici\tarayici\obj\x86\Debug\tarayici.exe
+C:\Users\Bilal\Documents\Visual Studio 2010\Projects\tarayici\tarayici\obj\x86\Debug\tarayici.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\tarayici\tarayici\bin\Debug\tarayici.exe.config
+C:\Users\Furkan\Desktop\Yeni klasör\tarayici\tarayici\bin\Debug\tarayici.exe
+C:\Users\Furkan\Desktop\Yeni klasör\tarayici\tarayici\bin\Debug\tarayici.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\tarayici\tarayici\obj\x86\Debug\tarayici.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Yeni klasör\tarayici\tarayici\obj\x86\Debug\tarayici.Form1.resources
+C:\Users\Furkan\Desktop\Yeni klasör\tarayici\tarayici\obj\x86\Debug\tarayici.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Yeni klasör\tarayici\tarayici\obj\x86\Debug\tarayici.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Yeni klasör\tarayici\tarayici\obj\x86\Debug\tarayici.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Yeni klasör\tarayici\tarayici\obj\x86\Debug\tarayici.exe
+C:\Users\Furkan\Desktop\Yeni klasör\tarayici\tarayici\obj\x86\Debug\tarayici.pdb
